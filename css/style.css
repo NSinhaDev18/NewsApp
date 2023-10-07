@@ -1,0 +1,62 @@
+h2 {
+  text-align: center;
+}
+.login {
+  color: white;
+  width: 300px;
+  padding: 10px;
+  position: absolute;
+  font-size: 20px;
+  top: 10%;
+  right: 50%;
+  line-height: 50px;
+  border-radius: 10px;
+  background: transparent;
+  text-align: left;
+  vertical-align: middle;
+}
+input {
+  height: 30px;
+  width: 98%;
+  padding-left: 10px;
+  border-radius: 8px;
+}
+
+button {
+  margin-top: 10px;
+  width: 120px;
+  height: 50px;
+  padding: 5px;
+  float: right;
+  vertical-align: middle;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border-radius: 10px;
+  background-color: rgb(67, 185, 67);
+  color: white;
+}
+
+#myVideo {
+  position: fixed;
+  width: auto;
+  height: auto;
+}
+a {
+  color: white;
+  font-size: 14px;
+}
+
+.signin {
+  color: white;
+  width: 500px;
+  padding: 10px;
+  position: absolute;
+  font-size: 20px;
+  top: 5%;
+  left: 30%;
+  line-height: 50px;
+  border-radius: 10px;
+  background: transparent;
+  text-align: left;
+  vertical-align: middle;
+}
